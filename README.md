@@ -26,7 +26,7 @@ En este proyecto profundice conocimientos desarrollados en el Proyecto Individua
 
 - Next.Js
 - NextAut
-- Aut 0
+- Auth 0
 - Chackra UI
 - Tailwind
 - Algolia
